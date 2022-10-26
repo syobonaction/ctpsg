@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "af829d5aaeb20eb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a00f598aab95bee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39d3fffca9fd4505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29af5e8c7073937d",
+    "type": "split",
+    "children": [
+      {
+        "id": "044ceee1bdd450f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28aad53bd6b7a0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c96f3cea01067df9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e56045e760ae1200",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0ee26e663d4ebb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd9bc65c19615b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e30ba6843a564c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3cddfb6e66d7ba6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89db94619ea61612",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4449494e8864cc09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "39d3fffca9fd4505",
+  "lastOpenFiles": [
+    "中国政治经济/Policy/双轨制（Dual-Track System）/Notes.md",
+    "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+    "中国政治经济/Books/China's 40 Years of Economic Development/Notes.md",
+    "中国政治经济/Books/China's 40 Years of Economic Development/Xinli Zheng - China’s 40 Years of Economic Reform and Development_ How the Miracle Was Created-Springer Singapore (2018).pdf",
+    "中国政治经济/Insitutuions/中国人民银行（People's Bank of China）/Notes.md",
+    "中国政治经济/Insitutuions/中国人民银行（People's Bank of China）/PBC Annual Reports/2017/2017 Annual Report.md",
+    "中国政治经济/Insitutuions/中国人民银行（People's Bank of China）/PBC Annual Reports/2017/Pbocannualreport2017.pdf",
+    "中国政治经济/Papers/Hot Money Inflows and Monetary Stability in China/Notes.md",
+    "中国政治经济/People/郑新立（Zheng Xinli）.md",
+    "中国政治经济/People/邓小平（Deng Xiaoping）.md"
+  ]
+}

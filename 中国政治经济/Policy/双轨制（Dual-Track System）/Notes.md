@@ -1,0 +1,3 @@
+A policy stance on price-liberalization taken by the Chinese government, which at first allowed the state to continue to plan the industrial core of the economy, and set the price of essential goods, while simultaneously liberalizing the prices of surplus output and nonessential goods
+
+Weber: "The dual-track system is not simply a price policy, but rather a process of market creation and regulation through state participation."
