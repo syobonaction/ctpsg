@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39d3fffca9fd4505",
+            "id": "d215be1a1dcfa9e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -139,10 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "39d3fffca9fd4505",
+  "active": "d215be1a1dcfa9e8",
   "lastOpenFiles": [
-    "中国政治经济/Policy/双轨制（Dual-Track System）/Notes.md",
     "中国政治经济/Books/How China Escaped Shock Therapy/Notes.md",
+    "中国政治经济/Policy/双轨制（Dual-Track System）/Notes.md",
     "中国政治经济/Books/China's 40 Years of Economic Development/Notes.md",
     "中国政治经济/Books/China's 40 Years of Economic Development/Xinli Zheng - China’s 40 Years of Economic Reform and Development_ How the Miracle Was Created-Springer Singapore (2018).pdf",
     "中国政治经济/Insitutuions/中国人民银行（People's Bank of China）/Notes.md",
